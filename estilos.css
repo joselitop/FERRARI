@@ -1,0 +1,37 @@
+@charset "utf-8";
+#grafico  {
+	width: 500px;
+	float: left;
+}
+#todo {
+	width: 1000px;
+
+}
+#primertexto {
+	width: 600px;
+	float: right;
+}
+#todo {
+	width: 1200px;
+	padding-left: auto;
+	padding-right: auto;
+}
+#titulo .titulo {
+	color: #006666;
+	text-align: center;
+}
+#primertexto#tex1 {
+	float: right;
+	width: 600px;
+}
+#grafico {
+	width: 597px;
+	float: left;
+
+}
+#presios img {
+}
+#presios img {
+}
+#todo img {
+}
